@@ -1,0 +1,16 @@
+body{
+  background-color: aquamarine;
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+  border: 10px solid red;
+  border-radius: 40px;
+}
+.container{
+  font-size: 200px;
+  font-weight: bold;
+  color: rgb(193, 19, 206);
+}
