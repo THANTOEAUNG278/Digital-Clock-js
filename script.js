@@ -14,5 +14,6 @@ setInterval(() => {
 
   hour.textContent = hourText;
   minute.textContent = minuteText;
+  
   seconds.textContent = secondsText;
 },1000 )
